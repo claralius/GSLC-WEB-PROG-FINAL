@@ -1,4 +1,5 @@
 Library yang digunakan: Socialite
+<br>
 Panduan instalasi: Menginstall file zip -> Unzip -> Codingan bisa dibuka melalui Visual Studio Code-> Melakukan instalasi file vendor dengan mengetik 'composer update'
 
 
